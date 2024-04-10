@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from opt_piezo_check import *
 from opt_piezo_inputs import *
 import csv
