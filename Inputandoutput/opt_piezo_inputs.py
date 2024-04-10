@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import sys,os,subprocess
 import numpy as np
 from pymatgen.io.vasp import Poscar
