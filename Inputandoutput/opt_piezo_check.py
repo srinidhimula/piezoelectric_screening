@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-#import sys,os,subprocess
-#from pymatgen.io.vasp.inputs import *
 from pymatgen.io.vasp.outputs import *
 import numpy as np
 import pandas as pd
