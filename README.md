@@ -1,2 +1,2 @@
 # piezoelectric_screening
-Perform highthroughput piezoelectric calculations and checks on the output of the calculations
+Perform high-throughput piezoelectric calculations for Metal-Organic Frameworks and reliability checks on the results of the calculations.
